@@ -1,0 +1,4 @@
+esxi_servers:
+  - user: administrator@vsphere.local
+    password: Atawn123!
+    ip: 192.168.170.211
