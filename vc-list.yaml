@@ -2,3 +2,6 @@ vCenters:
   - ip: "192.168.170.121"
     username: "administrator@vsphere.local"
     password: "azeQSD123!"
+  - ip: "192.168.170.122"
+    username: "administrator@vsphere.local"
+    password: "azeQSD123!"
